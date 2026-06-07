@@ -1,0 +1,279 @@
+
+background.png
+size: 602,602
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_b_glow
+  rotate: false
+  xy: 429, 399
+  size: 100, 96
+  orig: 100, 100
+  offset: 0, 2
+  index: -1
+dust_01
+  rotate: false
+  xy: 482, 238
+  size: 57, 60
+  orig: 64, 61
+  offset: 6, 0
+  index: -1
+dust_01_bg
+  rotate: false
+  xy: 268, 17
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+dust_02
+  rotate: true
+  xy: 541, 241
+  size: 68, 58
+  orig: 80, 73
+  offset: 12, 8
+  index: -1
+dust_03
+  rotate: false
+  xy: 2, 5
+  size: 90, 64
+  orig: 90, 74
+  offset: 0, 4
+  index: -1
+dust_04
+  rotate: false
+  xy: 410, 323
+  size: 90, 74
+  orig: 90, 74
+  offset: 0, 0
+  index: -1
+dust_05
+  rotate: false
+  xy: 2, 329
+  size: 200, 166
+  orig: 200, 166
+  offset: 0, 0
+  index: -1
+dust_06
+  rotate: false
+  xy: 167, 99
+  size: 120, 99
+  orig: 120, 99
+  offset: 0, 0
+  index: -1
+dust_07
+  rotate: false
+  xy: 167, 200
+  size: 150, 121
+  orig: 150, 121
+  offset: 0, 0
+  index: -1
+grass_02
+  rotate: false
+  xy: 287, 497
+  size: 256, 103
+  orig: 256, 110
+  offset: 0, 7
+  index: -1
+grass_02b
+  rotate: true
+  xy: 2, 71
+  size: 256, 100
+  orig: 256, 110
+  offset: 0, 10
+  index: -1
+grass_03
+  rotate: false
+  xy: 2, 497
+  size: 283, 103
+  orig: 283, 110
+  offset: 0, 7
+  index: -1
+grass_m_03
+  rotate: false
+  xy: 395, 234
+  size: 85, 87
+  orig: 85, 87
+  offset: 0, 0
+  index: -1
+grass_m_05
+  rotate: false
+  xy: 181, 32
+  size: 85, 65
+  orig: 85, 74
+  offset: 0, 3
+  index: -1
+grass_m_05 b
+  rotate: false
+  xy: 94, 2
+  size: 85, 66
+  orig: 85, 74
+  offset: 0, 3
+  index: -1
+grass_run
+  rotate: false
+  xy: 204, 399
+  size: 223, 96
+  orig: 224, 100
+  offset: 0, 4
+  index: -1
+grass_run_01
+  rotate: true
+  xy: 104, 97
+  size: 230, 61
+  orig: 230, 61
+  offset: 0, 0
+  index: -1
+light_additive
+  rotate: true
+  xy: 319, 196
+  size: 125, 74
+  orig: 125, 76
+  offset: 0, 1
+  index: -1
+light_additive2
+  rotate: true
+  xy: 586, 443
+  size: 157, 8
+  orig: 157, 8
+  offset: 0, 0
+  index: -1
+mask
+  rotate: false
+  xy: 204, 323
+  size: 204, 74
+  orig: 204, 74
+  offset: 0, 0
+  index: -1
+placeholder_bg_birds
+  rotate: false
+  xy: 482, 234
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+sun_light
+  rotate: false
+  xy: 531, 424
+  size: 52, 45
+  orig: 53, 46
+  offset: 0, 0
+  index: -1
+total win lt3/total_win_lt3_00
+  rotate: false
+  xy: 397, 76
+  size: 17, 23
+  orig: 59, 136
+  offset: 16, 113
+  index: -1
+total win lt3/total_win_lt3_01
+  rotate: false
+  xy: 268, 60
+  size: 19, 37
+  orig: 59, 136
+  offset: 18, 99
+  index: -1
+total win lt3/total_win_lt3_02
+  rotate: false
+  xy: 566, 374
+  size: 22, 48
+  orig: 59, 136
+  offset: 16, 88
+  index: -1
+total win lt3/total_win_lt3_03
+  rotate: true
+  xy: 104, 70
+  size: 25, 66
+  orig: 59, 136
+  offset: 16, 70
+  index: -1
+total win lt3/total_win_lt3_04
+  rotate: true
+  xy: 181, 4
+  size: 26, 83
+  orig: 59, 136
+  offset: 16, 53
+  index: -1
+total win lt3/total_win_lt3_05
+  rotate: false
+  xy: 502, 300
+  size: 29, 97
+  orig: 59, 136
+  offset: 13, 39
+  index: -1
+total win lt3/total_win_lt3_06
+  rotate: false
+  xy: 533, 311
+  size: 31, 111
+  orig: 59, 136
+  offset: 11, 25
+  index: -1
+total win lt3/total_win_lt3_07
+  rotate: true
+  xy: 437, 65
+  size: 35, 124
+  orig: 59, 136
+  offset: 10, 12
+  index: -1
+total win lt3/total_win_lt3_08
+  rotate: false
+  xy: 555, 113
+  size: 37, 126
+  orig: 59, 136
+  offset: 9, 10
+  index: -1
+total win lt3/total_win_lt3_09
+  rotate: false
+  xy: 317, 67
+  size: 38, 127
+  orig: 59, 136
+  offset: 9, 9
+  index: -1
+total win lt3/total_win_lt3_10
+  rotate: false
+  xy: 357, 66
+  size: 38, 128
+  orig: 59, 136
+  offset: 9, 8
+  index: -1
+total win lt3/total_win_lt3_11
+  rotate: false
+  xy: 545, 471
+  size: 39, 129
+  orig: 59, 136
+  offset: 9, 7
+  index: -1
+total win lt3/total_win_lt3_12
+  rotate: false
+  xy: 437, 102
+  size: 38, 130
+  orig: 59, 136
+  offset: 10, 6
+  index: -1
+total win lt3/total_win_lt3_13
+  rotate: false
+  xy: 477, 102
+  size: 38, 130
+  orig: 59, 136
+  offset: 11, 6
+  index: -1
+total win lt3/total_win_lt3_14
+  rotate: false
+  xy: 397, 101
+  size: 38, 131
+  orig: 59, 136
+  offset: 12, 5
+  index: -1
+total win lt3/total_win_lt3_15
+  rotate: false
+  xy: 517, 105
+  size: 36, 131
+  orig: 59, 136
+  offset: 13, 5
+  index: -1
+total win lt3/total_win_lt3_16
+  rotate: false
+  xy: 289, 70
+  size: 26, 128
+  orig: 59, 136
+  offset: 23, 6
+  index: -1

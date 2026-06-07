@@ -1,0 +1,251 @@
+
+free_spins_static_bet.png
+size: 888,888
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bet_bg_static
+  rotate: false
+  xy: 2, 444
+  size: 735, 128
+  orig: 922, 139
+  offset: 91, 6
+  index: -1
+btn_back
+  rotate: false
+  xy: 739, 444
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+btn_play
+  rotate: false
+  xy: 739, 444
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+btn_remove
+  rotate: false
+  xy: 739, 444
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+placeholder_are_you_sure
+  rotate: false
+  xy: 739, 444
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+placeholder_bet_size
+  rotate: false
+  xy: 739, 444
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+placeholder_bet_title
+  rotate: false
+  xy: 739, 444
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+placeholder_decline
+  rotate: false
+  xy: 739, 444
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+placeholder_later
+  rotate: false
+  xy: 739, 444
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+placeholder_qty_spins
+  rotate: false
+  xy: 739, 444
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+placeholder_qty_spins_2
+  rotate: false
+  xy: 739, 444
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+placeholder_reload_free_spins
+  rotate: false
+  xy: 739, 444
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+placeholder_you_get
+  rotate: false
+  xy: 739, 444
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+placeholder_you_lose
+  rotate: false
+  xy: 739, 444
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+ray
+  rotate: false
+  xy: 2, 574
+  size: 714, 149
+  orig: 873, 205
+  offset: 7, 26
+  index: -1
+ray_white
+  rotate: false
+  xy: 2, 251
+  size: 866, 76
+  orig: 873, 205
+  offset: 6, 64
+  index: -1
+shine_btn_play
+  rotate: false
+  xy: 2, 110
+  size: 255, 139
+  orig: 305, 163
+  offset: 25, 12
+  index: -1
+shine_button/shine_play_00005
+  rotate: false
+  xy: 847, 215
+  size: 39, 34
+  orig: 217, 96
+  offset: 11, 8
+  index: -1
+shine_button/shine_play_00006
+  rotate: false
+  xy: 777, 95
+  size: 48, 70
+  orig: 217, 96
+  offset: 11, 8
+  index: -1
+shine_button/shine_play_00007
+  rotate: false
+  xy: 201, 2
+  size: 78, 79
+  orig: 217, 96
+  offset: 11, 8
+  index: -1
+shine_button/shine_play_00008
+  rotate: false
+  xy: 621, 2
+  size: 108, 80
+  orig: 217, 96
+  offset: 10, 8
+  index: -1
+shine_button/shine_play_00009
+  rotate: true
+  xy: 739, 448
+  size: 127, 82
+  orig: 217, 96
+  offset: 10, 6
+  index: -1
+shine_button/shine_play_00010
+  rotate: true
+  xy: 718, 577
+  size: 146, 81
+  orig: 217, 96
+  offset: 10, 7
+  index: -1
+shine_button/shine_play_00011
+  rotate: true
+  xy: 786, 727
+  size: 159, 83
+  orig: 217, 96
+  offset: 10, 7
+  index: -1
+shine_button/shine_play_00012
+  rotate: false
+  xy: 655, 167
+  size: 190, 82
+  orig: 217, 96
+  offset: 10, 7
+  index: -1
+shine_button/shine_play_00013
+  rotate: false
+  xy: 259, 167
+  size: 196, 82
+  orig: 217, 96
+  offset: 10, 7
+  index: -1
+shine_button/shine_play_00014
+  rotate: false
+  xy: 2, 26
+  size: 197, 82
+  orig: 217, 96
+  offset: 10, 7
+  index: -1
+shine_button/shine_play_00015
+  rotate: false
+  xy: 457, 167
+  size: 196, 82
+  orig: 217, 96
+  offset: 11, 7
+  index: -1
+shine_button/shine_play_00016
+  rotate: false
+  xy: 259, 83
+  size: 189, 82
+  orig: 217, 96
+  offset: 18, 7
+  index: -1
+shine_button/shine_play_00017
+  rotate: false
+  xy: 450, 82
+  size: 169, 83
+  orig: 217, 96
+  offset: 38, 6
+  index: -1
+shine_button/shine_play_00018
+  rotate: false
+  xy: 621, 84
+  size: 154, 81
+  orig: 217, 96
+  offset: 53, 8
+  index: -1
+shine_button/shine_play_00019
+  rotate: true
+  xy: 801, 591
+  size: 134, 81
+  orig: 217, 96
+  offset: 73, 8
+  index: -1
+shine_button/shine_play_00020
+  rotate: true
+  xy: 736, 329
+  size: 113, 82
+  orig: 217, 96
+  offset: 94, 8
+  index: -1
+shine_free_spins
+  rotate: false
+  xy: 2, 725
+  size: 782, 161
+  orig: 1400, 500
+  offset: 306, 177
+  index: -1
+title_free_spins
+  rotate: false
+  xy: 2, 329
+  size: 732, 113
+  orig: 732, 115
+  offset: 0, 1
+  index: -1

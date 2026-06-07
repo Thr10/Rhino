@@ -1,0 +1,200 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "SymbolCell",
+    "_objFlags": 0,
+    "__editorExtras__": {},
+    "_native": "",
+    "data": {
+      "__id__": 1
+    },
+    "optimizationPolicy": 0,
+    "persistent": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "SymbolCell",
+    "_objFlags": 0,
+    "__editorExtras__": {},
+    "_parent": null,
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 4
+      },
+      {
+        "__id__": 6
+      }
+    ],
+    "_prefab": {
+      "__id__": 8
+    },
+    "_lpos": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_lrot": {
+      "__type__": "cc.Quat",
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "w": 1
+    },
+    "_lscale": {
+      "__type__": "cc.Vec3",
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "_mobility": 0,
+    "_layer": 33554432,
+    "_euler": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_id": ""
+  },
+  {
+    "__type__": "cc.UITransform",
+    "_name": "",
+    "_objFlags": 0,
+    "__editorExtras__": {},
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "__prefab": {
+      "__id__": 3
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 100,
+      "height": 100
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_id": ""
+  },
+  {
+    "__type__": "cc.CompPrefabInfo",
+    "fileId": "4dE0lksJFNZpoFTc5jt2pH"
+  },
+  {
+    "__type__": "sp.Skeleton",
+    "_name": "",
+    "_objFlags": 0,
+    "__editorExtras__": {},
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "__prefab": {
+      "__id__": 5
+    },
+    "_customMaterial": null,
+    "_srcBlendFactor": 2,
+    "_dstBlendFactor": 4,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_skeletonData": null,
+    "defaultSkin": "",
+    "defaultAnimation": "",
+    "_premultipliedAlpha": false,
+    "_timeScale": 1,
+    "_preCacheMode": -1,
+    "_cacheMode": 0,
+    "_sockets": [],
+    "_useTint": false,
+    "_debugMesh": false,
+    "_debugBones": false,
+    "_debugSlots": false,
+    "_enableBatch": false,
+    "loop": true,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.CompPrefabInfo",
+    "fileId": "eebOprm0BNHYJtSO3kBoeZ"
+  },
+  {
+    "__type__": "9af38vrMoJHA6iKrTihzmo8",
+    "_name": "",
+    "_objFlags": 0,
+    "__editorExtras__": {},
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "__prefab": {
+      "__id__": 7
+    },
+    "skeleton": {
+      "__id__": 4
+    },
+    "valueLabel": null,
+    "coinData": {
+      "__uuid__": "bfad912b-4a01-48d9-9bb8-0ffcc6ec73f2",
+      "__expectedType__": "sp.SkeletonData"
+    },
+    "rhinoData": {
+      "__uuid__": "aa641905-70ab-4ed1-8bf3-3359b74ebfc4",
+      "__expectedType__": "sp.SkeletonData"
+    },
+    "mysteryCoinData": {
+      "__uuid__": "e2823ed0-e74f-4694-954f-a4ef4bae3641",
+      "__expectedType__": "sp.SkeletonData"
+    },
+    "mysteryRhinoData": {
+      "__uuid__": "d43d0526-f9e0-4a99-b284-57e690ff42a6",
+      "__expectedType__": "sp.SkeletonData"
+    },
+    "rhinoJackpotData": {
+      "__uuid__": "ed9d77e9-795e-48db-b1f6-03060ba2e74f",
+      "__expectedType__": "sp.SkeletonData"
+    },
+    "superCoinData": {
+      "__uuid__": "909af044-0228-429b-9db3-aae4a823bcfc",
+      "__expectedType__": "sp.SkeletonData"
+    },
+    "superRhinoData": {
+      "__uuid__": "be2e4e90-c823-454f-b484-aab59c022db2",
+      "__expectedType__": "sp.SkeletonData"
+    },
+    "boostData": {
+      "__uuid__": "11814285-f356-4237-8834-45458f9ee7dc",
+      "__expectedType__": "sp.SkeletonData"
+    },
+    "_id": ""
+  },
+  {
+    "__type__": "cc.CompPrefabInfo",
+    "fileId": "4fB8Vv011B3qoly+A24267"
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    },
+    "fileId": "09VSHDxkNOJLLWX7ZCmzd1",
+    "targetOverrides": null
+  }
+]

@@ -1,0 +1,76 @@
+
+free_spins_win_popup.png
+size: 872,868
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+placeholder_free_spins_played
+  rotate: false
+  xy: 718, 701
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+btn_play
+  rotate: false
+  xy: 718, 701
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+placeholder_bet_played
+  rotate: false
+  xy: 718, 701
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+placeholder_free_spins_mode
+  rotate: false
+  xy: 718, 701
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+placeholder_title_total_win
+  rotate: false
+  xy: 718, 701
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+placeholder_total_win
+  rotate: false
+  xy: 718, 701
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+ray
+  rotate: false
+  xy: 2, 554
+  size: 714, 149
+  orig: 873, 205
+  offset: 7, 26
+  index: -1
+ray_white
+  rotate: false
+  xy: 2, 361
+  size: 866, 76
+  orig: 873, 205
+  offset: 6, 64
+  index: -1
+shine_free_spins
+  rotate: false
+  xy: 2, 705
+  size: 782, 161
+  orig: 1400, 500
+  offset: 306, 177
+  index: -1
+title_free_spins
+  rotate: false
+  xy: 2, 439
+  size: 732, 113
+  orig: 732, 115
+  offset: 0, 1
+  index: -1

@@ -1,0 +1,492 @@
+
+fs.png
+size: 16,16
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/placeholder
+  rotate: false
+  xy: 2, 2
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+
+fs2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/vfx_win/win_00001
+  rotate: false
+  xy: 2, 837
+  size: 218, 165
+  orig: 218, 165
+  offset: 0, 0
+  index: -1
+images/vfx_win/win_00002
+  rotate: false
+  xy: 2, 670
+  size: 218, 165
+  orig: 218, 165
+  offset: 0, 0
+  index: -1
+images/vfx_win/win_00003
+  rotate: false
+  xy: 222, 837
+  size: 218, 165
+  orig: 218, 165
+  offset: 0, 0
+  index: -1
+images/vfx_win/win_00004
+  rotate: false
+  xy: 2, 503
+  size: 218, 165
+  orig: 218, 165
+  offset: 0, 0
+  index: -1
+images/vfx_win/win_00005
+  rotate: false
+  xy: 222, 670
+  size: 218, 165
+  orig: 218, 165
+  offset: 0, 0
+  index: -1
+images/vfx_win/win_00006
+  rotate: false
+  xy: 442, 837
+  size: 218, 165
+  orig: 218, 165
+  offset: 0, 0
+  index: -1
+images/vfx_win/win_00007
+  rotate: false
+  xy: 2, 336
+  size: 218, 165
+  orig: 218, 165
+  offset: 0, 0
+  index: -1
+images/vfx_win/win_00008
+  rotate: false
+  xy: 222, 503
+  size: 218, 165
+  orig: 218, 165
+  offset: 0, 0
+  index: -1
+images/vfx_win/win_00009
+  rotate: false
+  xy: 442, 670
+  size: 218, 165
+  orig: 218, 165
+  offset: 0, 0
+  index: -1
+images/vfx_win/win_00010
+  rotate: false
+  xy: 662, 837
+  size: 218, 165
+  orig: 218, 165
+  offset: 0, 0
+  index: -1
+images/vfx_win/win_00011
+  rotate: false
+  xy: 2, 169
+  size: 218, 165
+  orig: 218, 165
+  offset: 0, 0
+  index: -1
+images/vfx_win/win_00012
+  rotate: false
+  xy: 222, 336
+  size: 218, 165
+  orig: 218, 165
+  offset: 0, 0
+  index: -1
+images/vfx_win/win_00013
+  rotate: false
+  xy: 442, 503
+  size: 218, 165
+  orig: 218, 165
+  offset: 0, 0
+  index: -1
+images/vfx_win/win_00014
+  rotate: false
+  xy: 662, 670
+  size: 218, 165
+  orig: 218, 165
+  offset: 0, 0
+  index: -1
+images/vfx_win/win_00015
+  rotate: false
+  xy: 2, 2
+  size: 218, 165
+  orig: 218, 165
+  offset: 0, 0
+  index: -1
+images/vfx_win/win_00016
+  rotate: false
+  xy: 222, 169
+  size: 218, 165
+  orig: 218, 165
+  offset: 0, 0
+  index: -1
+images/vfx_win/win_00017
+  rotate: false
+  xy: 442, 336
+  size: 218, 165
+  orig: 218, 165
+  offset: 0, 0
+  index: -1
+images/vfx_win/win_00018
+  rotate: false
+  xy: 662, 503
+  size: 218, 165
+  orig: 218, 165
+  offset: 0, 0
+  index: -1
+images/vfx_win/win_00019
+  rotate: false
+  xy: 222, 2
+  size: 218, 165
+  orig: 218, 165
+  offset: 0, 0
+  index: -1
+images/vfx_win/win_00020
+  rotate: false
+  xy: 442, 169
+  size: 218, 165
+  orig: 218, 165
+  offset: 0, 0
+  index: -1
+images/vfx_win/win_00021
+  rotate: false
+  xy: 662, 336
+  size: 218, 165
+  orig: 218, 165
+  offset: 0, 0
+  index: -1
+images/vfx_win/win_00022
+  rotate: false
+  xy: 442, 2
+  size: 218, 165
+  orig: 218, 165
+  offset: 0, 0
+  index: -1
+images/vfx_win/win_00023
+  rotate: false
+  xy: 662, 169
+  size: 218, 165
+  orig: 218, 165
+  offset: 0, 0
+  index: -1
+images/vfx_win/win_00024
+  rotate: false
+  xy: 662, 2
+  size: 218, 165
+  orig: 218, 165
+  offset: 0, 0
+  index: -1
+
+fs3.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/vfx_win/win_00025
+  rotate: true
+  xy: 2, 2
+  size: 218, 165
+  orig: 218, 165
+  offset: 0, 0
+  index: -1
+images/vfx_win/win_00026
+  rotate: true
+  xy: 169, 2
+  size: 218, 165
+  orig: 218, 165
+  offset: 0, 0
+  index: -1
+images/vfx_win/win_00027
+  rotate: true
+  xy: 336, 2
+  size: 218, 165
+  orig: 218, 165
+  offset: 0, 0
+  index: -1
+images/vfx_win/win_00028
+  rotate: true
+  xy: 503, 2
+  size: 218, 165
+  orig: 218, 165
+  offset: 0, 0
+  index: -1
+images/vfx_win/win_00029
+  rotate: true
+  xy: 670, 2
+  size: 218, 165
+  orig: 218, 165
+  offset: 0, 0
+  index: -1
+
+fs4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/_idle/_idle_00003
+  rotate: false
+  xy: 2, 782
+  size: 213, 154
+  orig: 213, 154
+  offset: 0, 0
+  index: -1
+images/_idle/_idle_00004
+  rotate: false
+  xy: 2, 626
+  size: 213, 154
+  orig: 213, 154
+  offset: 0, 0
+  index: -1
+images/_idle/_idle_00005
+  rotate: false
+  xy: 217, 782
+  size: 213, 154
+  orig: 213, 154
+  offset: 0, 0
+  index: -1
+images/_idle/_idle_00006
+  rotate: false
+  xy: 2, 470
+  size: 213, 154
+  orig: 213, 154
+  offset: 0, 0
+  index: -1
+images/_idle/_idle_00007
+  rotate: false
+  xy: 217, 626
+  size: 213, 154
+  orig: 213, 154
+  offset: 0, 0
+  index: -1
+images/_idle/_idle_00008
+  rotate: false
+  xy: 432, 782
+  size: 213, 154
+  orig: 213, 154
+  offset: 0, 0
+  index: -1
+images/_idle/_idle_00009
+  rotate: false
+  xy: 2, 314
+  size: 213, 154
+  orig: 213, 154
+  offset: 0, 0
+  index: -1
+images/_idle/_idle_00010
+  rotate: false
+  xy: 217, 470
+  size: 213, 154
+  orig: 213, 154
+  offset: 0, 0
+  index: -1
+images/_idle/_idle_00011
+  rotate: false
+  xy: 432, 626
+  size: 213, 154
+  orig: 213, 154
+  offset: 0, 0
+  index: -1
+images/_idle/_idle_00012
+  rotate: false
+  xy: 647, 782
+  size: 213, 154
+  orig: 213, 154
+  offset: 0, 0
+  index: -1
+images/_idle/_idle_00013
+  rotate: false
+  xy: 2, 158
+  size: 213, 154
+  orig: 213, 154
+  offset: 0, 0
+  index: -1
+images/_idle/_idle_00014
+  rotate: false
+  xy: 217, 314
+  size: 213, 154
+  orig: 213, 154
+  offset: 0, 0
+  index: -1
+images/_idle/_idle_00015
+  rotate: false
+  xy: 432, 470
+  size: 213, 154
+  orig: 213, 154
+  offset: 0, 0
+  index: -1
+images/_idle/_idle_00016
+  rotate: false
+  xy: 647, 626
+  size: 213, 154
+  orig: 213, 154
+  offset: 0, 0
+  index: -1
+images/_idle/_idle_00017
+  rotate: true
+  xy: 862, 723
+  size: 213, 154
+  orig: 213, 154
+  offset: 0, 0
+  index: -1
+images/_idle/_idle_00018
+  rotate: false
+  xy: 2, 2
+  size: 213, 154
+  orig: 213, 154
+  offset: 0, 0
+  index: -1
+images/_idle/_idle_00019
+  rotate: false
+  xy: 217, 158
+  size: 213, 154
+  orig: 213, 154
+  offset: 0, 0
+  index: -1
+images/_idle/_idle_00020
+  rotate: false
+  xy: 432, 314
+  size: 213, 154
+  orig: 213, 154
+  offset: 0, 0
+  index: -1
+images/_idle/_idle_00021
+  rotate: false
+  xy: 647, 470
+  size: 213, 154
+  orig: 213, 154
+  offset: 0, 0
+  index: -1
+images/_idle/_idle_00022
+  rotate: true
+  xy: 862, 508
+  size: 213, 154
+  orig: 213, 154
+  offset: 0, 0
+  index: -1
+images/_idle/_idle_00023
+  rotate: false
+  xy: 217, 2
+  size: 213, 154
+  orig: 213, 154
+  offset: 0, 0
+  index: -1
+images/_idle/_idle_00024
+  rotate: false
+  xy: 432, 158
+  size: 213, 154
+  orig: 213, 154
+  offset: 0, 0
+  index: -1
+images/_idle/_idle_00025
+  rotate: false
+  xy: 647, 314
+  size: 213, 154
+  orig: 213, 154
+  offset: 0, 0
+  index: -1
+images/_idle/_idle_00026
+  rotate: false
+  xy: 432, 2
+  size: 213, 154
+  orig: 213, 154
+  offset: 0, 0
+  index: -1
+images/_idle/_idle_00027
+  rotate: false
+  xy: 647, 158
+  size: 213, 154
+  orig: 213, 154
+  offset: 0, 0
+  index: -1
+images/_idle/_idle_00028
+  rotate: true
+  xy: 862, 293
+  size: 213, 154
+  orig: 213, 154
+  offset: 0, 0
+  index: -1
+images/_idle/_idle_00029
+  rotate: false
+  xy: 647, 2
+  size: 213, 154
+  orig: 213, 154
+  offset: 0, 0
+  index: -1
+images/_idle/_idle_00030
+  rotate: true
+  xy: 862, 78
+  size: 213, 154
+  orig: 213, 154
+  offset: 0, 0
+  index: -1
+
+fs5.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/_idle/_idle_00031
+  rotate: false
+  xy: 2, 314
+  size: 213, 154
+  orig: 213, 154
+  offset: 0, 0
+  index: -1
+images/_idle/_idle_00032
+  rotate: false
+  xy: 2, 158
+  size: 213, 154
+  orig: 213, 154
+  offset: 0, 0
+  index: -1
+images/_idle/_idle_00033
+  rotate: false
+  xy: 217, 314
+  size: 213, 154
+  orig: 213, 154
+  offset: 0, 0
+  index: -1
+images/_idle/_idle_00034
+  rotate: false
+  xy: 2, 2
+  size: 213, 154
+  orig: 213, 154
+  offset: 0, 0
+  index: -1
+images/_idle/_idle_00035
+  rotate: false
+  xy: 217, 158
+  size: 213, 154
+  orig: 213, 154
+  offset: 0, 0
+  index: -1
+images/_idle/_idle_00036
+  rotate: false
+  xy: 432, 314
+  size: 213, 154
+  orig: 213, 154
+  offset: 0, 0
+  index: -1
+images/_idle/_idle_00037
+  rotate: false
+  xy: 217, 2
+  size: 213, 154
+  orig: 213, 154
+  offset: 0, 0
+  index: -1
+images/_idle/_idle_00038
+  rotate: false
+  xy: 217, 2
+  size: 213, 154
+  orig: 213, 154
+  offset: 0, 0
+  index: -1

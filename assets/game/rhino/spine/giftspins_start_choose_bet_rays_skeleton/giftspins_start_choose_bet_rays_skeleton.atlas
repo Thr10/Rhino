@@ -1,0 +1,482 @@
+
+free_spins_choose_bet.png
+size: 1336,1336
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bet_bg
+  rotate: false
+  xy: 346, 902
+  size: 438, 128
+  orig: 438, 139
+  offset: 0, 6
+  index: -1
+btn_back
+  rotate: false
+  xy: 1326, 909
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+btn_minus
+  rotate: false
+  xy: 1326, 909
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+btn_play
+  rotate: false
+  xy: 1326, 909
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+btn_plus
+  rotate: false
+  xy: 1326, 909
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+btn_remove
+  rotate: false
+  xy: 1326, 909
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+placeholder_are_you_sure
+  rotate: false
+  xy: 1326, 909
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+placeholder_bet_size
+  rotate: false
+  xy: 1326, 909
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+placeholder_bet_title
+  rotate: false
+  xy: 1326, 909
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+placeholder_decline
+  rotate: false
+  xy: 1326, 909
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+placeholder_later
+  rotate: false
+  xy: 1326, 909
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+placeholder_qty_spins
+  rotate: false
+  xy: 1326, 909
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+placeholder_qty_spins_2
+  rotate: false
+  xy: 1326, 909
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+placeholder_reload_free_spins
+  rotate: false
+  xy: 1326, 909
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+placeholder_you_get
+  rotate: false
+  xy: 1326, 909
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+placeholder_you_lose
+  rotate: false
+  xy: 1326, 909
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+btn_bet_glow
+  rotate: false
+  xy: 284, 142
+  size: 189, 194
+  orig: 376, 392
+  offset: 97, 99
+  index: -1
+ray
+  rotate: true
+  xy: 80, 457
+  size: 714, 149
+  orig: 873, 205
+  offset: 7, 26
+  index: -1
+ray_white
+  rotate: true
+  xy: 2, 305
+  size: 866, 76
+  orig: 873, 205
+  offset: 6, 64
+  index: -1
+shine_bet_bg/shine_bet_bg_00000
+  rotate: false
+  xy: 221, 316
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shine_bet_bg/shine_bet_bg_00001
+  rotate: false
+  xy: 1289, 499
+  size: 34, 130
+  orig: 438, 233
+  offset: 0, 52
+  index: -1
+shine_bet_bg/shine_bet_bg_00002
+  rotate: false
+  xy: 1258, 352
+  size: 69, 136
+  orig: 438, 233
+  offset: 0, 49
+  index: -1
+shine_bet_bg/shine_bet_bg_00003
+  rotate: false
+  xy: 1220, 1054
+  size: 103, 139
+  orig: 438, 233
+  offset: 0, 47
+  index: -1
+shine_bet_bg/shine_bet_bg_00004
+  rotate: false
+  xy: 1197, 913
+  size: 137, 139
+  orig: 438, 233
+  offset: 0, 47
+  index: -1
+shine_bet_bg/shine_bet_bg_00005
+  rotate: false
+  xy: 915, 349
+  size: 170, 139
+  orig: 438, 233
+  offset: 0, 47
+  index: -1
+shine_bet_bg/shine_bet_bg_00006
+  rotate: false
+  xy: 1121, 772
+  size: 203, 139
+  orig: 438, 233
+  offset: 0, 47
+  index: -1
+shine_bet_bg/shine_bet_bg_00007
+  rotate: false
+  xy: 475, 197
+  size: 236, 139
+  orig: 438, 233
+  offset: 0, 47
+  index: -1
+shine_bet_bg/shine_bet_bg_00008
+  rotate: false
+  xy: 1019, 490
+  size: 268, 139
+  orig: 438, 233
+  offset: 0, 47
+  index: -1
+shine_bet_bg/shine_bet_bg_00009
+  rotate: true
+  xy: 2, 2
+  size: 301, 139
+  orig: 438, 233
+  offset: 0, 47
+  index: -1
+shine_bet_bg/shine_bet_bg_00010
+  rotate: false
+  xy: 786, 772
+  size: 333, 139
+  orig: 438, 233
+  offset: 0, 47
+  index: -1
+shine_bet_bg/shine_bet_bg_00011
+  rotate: false
+  xy: 346, 479
+  size: 366, 139
+  orig: 438, 233
+  offset: 0, 47
+  index: -1
+shine_bet_bg/shine_bet_bg_00012
+  rotate: false
+  xy: 346, 761
+  size: 399, 139
+  orig: 438, 233
+  offset: 0, 47
+  index: -1
+shine_bet_bg/shine_bet_bg_00013
+  rotate: false
+  xy: 786, 1054
+  size: 432, 139
+  orig: 438, 233
+  offset: 0, 47
+  index: -1
+shine_bet_bg/shine_bet_bg_00014
+  rotate: false
+  xy: 786, 1195
+  size: 438, 139
+  orig: 438, 233
+  offset: 0, 47
+  index: -1
+shine_bet_bg/shine_bet_bg_00015
+  rotate: false
+  xy: 346, 1032
+  size: 438, 139
+  orig: 438, 233
+  offset: 0, 47
+  index: -1
+shine_bet_bg/shine_bet_bg_00016
+  rotate: false
+  xy: 786, 913
+  size: 409, 139
+  orig: 438, 233
+  offset: 29, 47
+  index: -1
+shine_bet_bg/shine_bet_bg_00017
+  rotate: false
+  xy: 346, 620
+  size: 379, 139
+  orig: 438, 233
+  offset: 59, 47
+  index: -1
+shine_bet_bg/shine_bet_bg_00018
+  rotate: false
+  xy: 346, 338
+  size: 349, 139
+  orig: 438, 233
+  offset: 89, 47
+  index: -1
+shine_bet_bg/shine_bet_bg_00019
+  rotate: false
+  xy: 747, 631
+  size: 320, 139
+  orig: 438, 233
+  offset: 118, 47
+  index: -1
+shine_bet_bg/shine_bet_bg_00020
+  rotate: false
+  xy: 727, 490
+  size: 290, 139
+  orig: 438, 233
+  offset: 148, 47
+  index: -1
+shine_bet_bg/shine_bet_bg_00021
+  rotate: false
+  xy: 1069, 631
+  size: 259, 139
+  orig: 438, 233
+  offset: 179, 47
+  index: -1
+shine_bet_bg/shine_bet_bg_00022
+  rotate: false
+  xy: 475, 56
+  size: 229, 139
+  orig: 438, 233
+  offset: 209, 47
+  index: -1
+shine_bet_bg/shine_bet_bg_00023
+  rotate: false
+  xy: 714, 349
+  size: 199, 139
+  orig: 438, 233
+  offset: 239, 47
+  index: -1
+shine_bet_bg/shine_bet_bg_00024
+  rotate: false
+  xy: 1087, 349
+  size: 169, 139
+  orig: 438, 233
+  offset: 269, 47
+  index: -1
+shine_bet_bg/shine_bet_bg_00025
+  rotate: false
+  xy: 80, 316
+  size: 139, 139
+  orig: 438, 233
+  offset: 299, 47
+  index: -1
+shine_bet_bg/shine_bet_bg_00026
+  rotate: false
+  xy: 1038, 43
+  size: 109, 136
+  orig: 438, 233
+  offset: 329, 49
+  index: -1
+shine_bet_bg/shine_bet_bg_00027
+  rotate: true
+  xy: 1110, 185
+  size: 79, 134
+  orig: 438, 233
+  offset: 359, 50
+  index: -1
+shine_bet_bg/shine_bet_bg_00028
+  rotate: true
+  xy: 143, 8
+  size: 49, 130
+  orig: 438, 233
+  offset: 389, 52
+  index: -1
+shine_bet_bg/shine_bet_bg_00029
+  rotate: false
+  xy: 747, 772
+  size: 19, 128
+  orig: 438, 233
+  offset: 419, 53
+  index: -1
+shine_btn_play
+  rotate: true
+  xy: 143, 59
+  size: 255, 139
+  orig: 305, 163
+  offset: 25, 12
+  index: -1
+shine_button/shine_play_00005
+  rotate: false
+  xy: 221, 319
+  size: 39, 34
+  orig: 217, 96
+  offset: 11, 8
+  index: -1
+shine_button/shine_play_00006
+  rotate: true
+  xy: 1226, 1204
+  size: 48, 70
+  orig: 217, 96
+  offset: 11, 8
+  index: -1
+shine_button/shine_play_00007
+  rotate: false
+  xy: 1233, 104
+  size: 78, 79
+  orig: 217, 96
+  offset: 11, 8
+  index: -1
+shine_button/shine_play_00008
+  rotate: false
+  xy: 1226, 1254
+  size: 108, 80
+  orig: 217, 96
+  offset: 10, 8
+  index: -1
+shine_button/shine_play_00009
+  rotate: true
+  xy: 1149, 56
+  size: 127, 82
+  orig: 217, 96
+  offset: 10, 6
+  index: -1
+shine_button/shine_play_00010
+  rotate: false
+  xy: 1110, 266
+  size: 146, 81
+  orig: 217, 96
+  offset: 10, 7
+  index: -1
+shine_button/shine_play_00011
+  rotate: false
+  xy: 877, 96
+  size: 159, 83
+  orig: 217, 96
+  offset: 10, 7
+  index: -1
+shine_button/shine_play_00012
+  rotate: false
+  xy: 911, 181
+  size: 190, 82
+  orig: 217, 96
+  offset: 10, 7
+  index: -1
+shine_button/shine_play_00013
+  rotate: false
+  xy: 912, 265
+  size: 196, 82
+  orig: 217, 96
+  offset: 10, 7
+  index: -1
+shine_button/shine_play_00014
+  rotate: false
+  xy: 713, 265
+  size: 197, 82
+  orig: 217, 96
+  offset: 10, 7
+  index: -1
+shine_button/shine_play_00015
+  rotate: false
+  xy: 713, 181
+  size: 196, 82
+  orig: 217, 96
+  offset: 11, 7
+  index: -1
+shine_button/shine_play_00016
+  rotate: false
+  xy: 284, 58
+  size: 189, 82
+  orig: 217, 96
+  offset: 18, 7
+  index: -1
+shine_button/shine_play_00017
+  rotate: false
+  xy: 706, 96
+  size: 169, 83
+  orig: 217, 96
+  offset: 38, 6
+  index: -1
+shine_button/shine_play_00018
+  rotate: false
+  xy: 706, 13
+  size: 154, 81
+  orig: 217, 96
+  offset: 53, 8
+  index: -1
+shine_button/shine_play_00019
+  rotate: false
+  xy: 862, 13
+  size: 134, 81
+  orig: 217, 96
+  offset: 73, 8
+  index: -1
+shine_button/shine_play_00020
+  rotate: false
+  xy: 221, 355
+  size: 113, 82
+  orig: 217, 96
+  offset: 94, 8
+  index: -1
+shine_free_spins
+  rotate: false
+  xy: 2, 1173
+  size: 782, 161
+  orig: 1400, 500
+  offset: 306, 177
+  index: -1
+title_free_spins
+  rotate: true
+  xy: 231, 439
+  size: 732, 113
+  orig: 732, 115
+  offset: 0, 1
+  index: -1

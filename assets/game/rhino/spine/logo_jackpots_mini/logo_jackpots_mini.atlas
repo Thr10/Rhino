@@ -1,0 +1,804 @@
+
+UI.png
+size: 1349,1349
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrow
+  rotate: false
+  xy: 881, 603
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+electricity_01_l/electricity_01_l_00
+  rotate: false
+  xy: 1000, 952
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+electricity_01_l/electricity_01_l_01
+  rotate: true
+  xy: 907, 777
+  size: 173, 100
+  orig: 323, 158
+  offset: 128, 16
+  index: -1
+electricity_01_l/electricity_01_l_02
+  rotate: true
+  xy: 221, 355
+  size: 204, 108
+  orig: 323, 158
+  offset: 100, 15
+  index: -1
+electricity_01_l/electricity_01_l_03
+  rotate: true
+  xy: 225, 148
+  size: 205, 104
+  orig: 323, 158
+  offset: 99, 15
+  index: -1
+electricity_01_l/electricity_01_l_04
+  rotate: true
+  xy: 1237, 1007
+  size: 157, 110
+  orig: 323, 158
+  offset: 147, 20
+  index: -1
+electricity_01_l/electricity_01_l_05
+  rotate: false
+  xy: 341, 627
+  size: 224, 122
+  orig: 323, 158
+  offset: 83, 17
+  index: -1
+electricity_01_l/electricity_01_l_06
+  rotate: false
+  xy: 1048, 1226
+  size: 285, 121
+  orig: 323, 158
+  offset: 21, 17
+  index: -1
+electricity_01_l/electricity_01_l_07
+  rotate: true
+  xy: 102, 59
+  size: 282, 121
+  orig: 323, 158
+  offset: 21, 17
+  index: -1
+electricity_01_l/electricity_01_l_08
+  rotate: true
+  xy: 540, 765
+  size: 286, 121
+  orig: 323, 158
+  offset: 21, 17
+  index: -1
+electricity_01_r/electricity_01_r_00
+  rotate: true
+  xy: 1295, 1169
+  size: 55, 33
+  orig: 172, 87
+  offset: 3, 18
+  index: -1
+electricity_01_r/electricity_01_r_01
+  rotate: true
+  xy: 1302, 134
+  size: 142, 41
+  orig: 172, 87
+  offset: 3, 18
+  index: -1
+electricity_01_r/electricity_01_r_02
+  rotate: false
+  xy: 904, 283
+  size: 143, 54
+  orig: 172, 87
+  offset: 3, 15
+  index: -1
+electricity_01_r/electricity_01_r_03
+  rotate: true
+  xy: 955, 633
+  size: 142, 44
+  orig: 172, 87
+  offset: 0, 22
+  index: -1
+electricity_01_r/electricity_01_r_04
+  rotate: true
+  xy: 809, 8
+  size: 67, 30
+  orig: 172, 87
+  offset: 1, 28
+  index: -1
+electricity_01_r/electricity_01_r_05
+  rotate: false
+  xy: 1197, 718
+  size: 29, 19
+  orig: 172, 87
+  offset: 0, 26
+  index: -1
+electricity_01_r/electricity_01_r_06
+  rotate: true
+  xy: 663, 1016
+  size: 35, 25
+  orig: 172, 87
+  offset: 0, 22
+  index: -1
+electricity_01_r/electricity_01_r_07
+  rotate: false
+  xy: 841, 15
+  size: 97, 37
+  orig: 172, 87
+  offset: 0, 22
+  index: -1
+electricity_01_r/electricity_01_r_08
+  rotate: false
+  xy: 1241, 94
+  size: 98, 34
+  orig: 172, 87
+  offset: 0, 25
+  index: -1
+electricity_01_r/electricity_01_r_09
+  rotate: false
+  xy: 1237, 57
+  size: 94, 35
+  orig: 172, 87
+  offset: 1, 26
+  index: -1
+electricity_01_r/electricity_01_r_10
+  rotate: false
+  xy: 331, 148
+  size: 11, 13
+  orig: 172, 87
+  offset: 5, 28
+  index: -1
+expand_glow
+  rotate: false
+  xy: 2, 6
+  size: 97, 17
+  orig: 97, 17
+  offset: 0, 0
+  index: -1
+glow_yellow
+  rotate: false
+  xy: 2, 343
+  size: 217, 216
+  orig: 222, 222
+  offset: 1, 5
+  index: -1
+grand
+  rotate: false
+  xy: 1112, 97
+  size: 127, 31
+  orig: 127, 31
+  offset: 0, 0
+  index: -1
+grand_frame_yellow_glow
+  rotate: true
+  xy: 567, 629
+  size: 134, 51
+  orig: 134, 55
+  offset: 0, 2
+  index: -1
+grand_panel_land
+  rotate: true
+  xy: 331, 362
+  size: 197, 51
+  orig: 197, 51
+  offset: 0, 0
+  index: -1
+grand_panel_port
+  rotate: false
+  xy: 341, 566
+  size: 225, 59
+  orig: 225, 59
+  offset: 0, 0
+  index: -1
+jp_plate_fx/jp_plate_fx_00
+  rotate: false
+  xy: 102, 22
+  size: 121, 35
+  orig: 144, 72
+  offset: 14, 19
+  index: -1
+jp_plate_fx/jp_plate_fx_01
+  rotate: false
+  xy: 1147, 644
+  size: 143, 72
+  orig: 144, 72
+  offset: 1, 0
+  index: -1
+jp_plate_fx/jp_plate_fx_02
+  rotate: true
+  xy: 225, 2
+  size: 144, 72
+  orig: 144, 72
+  offset: 0, 0
+  index: -1
+jp_plate_fx/jp_plate_fx_03
+  rotate: true
+  xy: 299, 2
+  size: 144, 72
+  orig: 144, 72
+  offset: 0, 0
+  index: -1
+jp_plate_fx/jp_plate_fx_04
+  rotate: true
+  xy: 862, 128
+  size: 144, 72
+  orig: 144, 72
+  offset: 0, 0
+  index: -1
+jp_plate_fx/jp_plate_fx_05
+  rotate: true
+  xy: 881, 631
+  size: 144, 72
+  orig: 144, 72
+  offset: 0, 0
+  index: -1
+jp_plate_fx/jp_plate_fx_06
+  rotate: false
+  xy: 1001, 644
+  size: 144, 72
+  orig: 144, 72
+  offset: 0, 0
+  index: -1
+jp_plate_fx/jp_plate_fx_07
+  rotate: true
+  xy: 903, 485
+  size: 144, 72
+  orig: 144, 72
+  offset: 0, 0
+  index: -1
+jp_plate_fx/jp_plate_fx_08
+  rotate: true
+  xy: 904, 339
+  size: 144, 72
+  orig: 144, 72
+  offset: 0, 0
+  index: -1
+jp_plate_fx/jp_plate_fx_09
+  rotate: true
+  xy: 977, 487
+  size: 144, 72
+  orig: 144, 72
+  offset: 0, 0
+  index: -1
+jp_plate_fx/jp_plate_fx_10
+  rotate: true
+  xy: 978, 341
+  size: 144, 72
+  orig: 144, 72
+  offset: 0, 0
+  index: -1
+jp_plate_fx/jp_plate_fx_11
+  rotate: true
+  xy: 1051, 498
+  size: 144, 72
+  orig: 144, 72
+  offset: 0, 0
+  index: -1
+jp_plate_fx/jp_plate_fx_12
+  rotate: true
+  xy: 1052, 352
+  size: 144, 72
+  orig: 144, 72
+  offset: 0, 0
+  index: -1
+jp_plate_fx/jp_plate_fx_13
+  rotate: true
+  xy: 1125, 498
+  size: 144, 72
+  orig: 144, 72
+  offset: 0, 0
+  index: -1
+jp_plate_fx/jp_plate_fx_14
+  rotate: true
+  xy: 1126, 352
+  size: 144, 72
+  orig: 144, 72
+  offset: 0, 0
+  index: -1
+jp_plate_fx/jp_plate_fx_15
+  rotate: true
+  xy: 1199, 498
+  size: 144, 72
+  orig: 144, 72
+  offset: 0, 0
+  index: -1
+jp_plate_fx/jp_plate_fx_16
+  rotate: true
+  xy: 1200, 352
+  size: 144, 72
+  orig: 144, 72
+  offset: 0, 0
+  index: -1
+jp_plate_fx/jp_plate_fx_17
+  rotate: true
+  xy: 1273, 498
+  size: 144, 72
+  orig: 144, 72
+  offset: 0, 0
+  index: -1
+jp_plate_fx/jp_plate_fx_18
+  rotate: true
+  xy: 1274, 352
+  size: 144, 72
+  orig: 144, 72
+  offset: 0, 0
+  index: -1
+jp_plate_fx/jp_plate_fx_19
+  rotate: false
+  xy: 1052, 278
+  size: 144, 72
+  orig: 144, 72
+  offset: 0, 0
+  index: -1
+jp_plate_fx/jp_plate_fx_20
+  rotate: false
+  xy: 1198, 278
+  size: 144, 72
+  orig: 144, 72
+  offset: 0, 0
+  index: -1
+jp_plate_fx/jp_plate_fx_21
+  rotate: true
+  xy: 936, 132
+  size: 144, 72
+  orig: 144, 72
+  offset: 0, 0
+  index: -1
+jp_plate_fx/jp_plate_fx_22
+  rotate: false
+  xy: 1010, 204
+  size: 144, 72
+  orig: 144, 72
+  offset: 0, 0
+  index: -1
+jp_plate_fx/jp_plate_fx_23
+  rotate: false
+  xy: 1156, 204
+  size: 144, 72
+  orig: 144, 72
+  offset: 0, 0
+  index: -1
+jp_plate_fx/jp_plate_fx_24
+  rotate: false
+  xy: 1010, 130
+  size: 144, 72
+  orig: 144, 72
+  offset: 0, 0
+  index: -1
+jp_plate_fx/jp_plate_fx_25
+  rotate: false
+  xy: 1156, 130
+  size: 144, 72
+  orig: 144, 72
+  offset: 0, 0
+  index: -1
+jp_plate_fx/jp_plate_fx_26
+  rotate: false
+  xy: 1197, 933
+  size: 144, 72
+  orig: 144, 72
+  offset: 0, 0
+  index: -1
+jp_plate_fx/jp_plate_fx_27
+  rotate: false
+  xy: 1197, 859
+  size: 144, 72
+  orig: 144, 72
+  offset: 0, 0
+  index: -1
+jp_plate_fx/jp_plate_fx_28
+  rotate: false
+  xy: 1197, 785
+  size: 144, 72
+  orig: 144, 72
+  offset: 0, 0
+  index: -1
+jp_plate_fx/jp_plate_fx_29
+  rotate: false
+  xy: 862, 54
+  size: 144, 72
+  orig: 144, 72
+  offset: 0, 0
+  index: -1
+jp_plate_fx/jp_plate_fx_30
+  rotate: false
+  xy: 1112, 60
+  size: 121, 35
+  orig: 144, 72
+  offset: 14, 19
+  index: -1
+jp_plate_fx_royal/royal_plate_fx_00
+  rotate: true
+  xy: 862, 438
+  size: 162, 39
+  orig: 186, 77
+  offset: 13, 19
+  index: -1
+jp_plate_fx_royal/royal_plate_fx_01
+  rotate: false
+  xy: 1049, 1087
+  size: 186, 77
+  orig: 186, 77
+  offset: 0, 0
+  index: -1
+jp_plate_fx_royal/royal_plate_fx_02
+  rotate: false
+  xy: 1049, 1008
+  size: 186, 77
+  orig: 186, 77
+  offset: 0, 0
+  index: -1
+jp_plate_fx_royal/royal_plate_fx_03
+  rotate: true
+  xy: 384, 378
+  size: 186, 77
+  orig: 186, 77
+  offset: 0, 0
+  index: -1
+jp_plate_fx_royal/royal_plate_fx_04
+  rotate: true
+  xy: 463, 378
+  size: 186, 77
+  orig: 186, 77
+  offset: 0, 0
+  index: -1
+jp_plate_fx_royal/royal_plate_fx_05
+  rotate: true
+  xy: 384, 190
+  size: 186, 77
+  orig: 186, 77
+  offset: 0, 0
+  index: -1
+jp_plate_fx_royal/royal_plate_fx_06
+  rotate: true
+  xy: 463, 190
+  size: 186, 77
+  orig: 186, 77
+  offset: 0, 0
+  index: -1
+jp_plate_fx_royal/royal_plate_fx_07
+  rotate: true
+  xy: 542, 378
+  size: 186, 77
+  orig: 186, 77
+  offset: 0, 0
+  index: -1
+jp_plate_fx_royal/royal_plate_fx_08
+  rotate: true
+  xy: 542, 190
+  size: 186, 77
+  orig: 186, 77
+  offset: 0, 0
+  index: -1
+jp_plate_fx_royal/royal_plate_fx_09
+  rotate: false
+  xy: 384, 111
+  size: 186, 77
+  orig: 186, 77
+  offset: 0, 0
+  index: -1
+jp_plate_fx_royal/royal_plate_fx_10
+  rotate: false
+  xy: 373, 32
+  size: 186, 77
+  orig: 186, 77
+  offset: 0, 0
+  index: -1
+jp_plate_fx_royal/royal_plate_fx_11
+  rotate: true
+  xy: 572, 2
+  size: 186, 77
+  orig: 186, 77
+  offset: 0, 0
+  index: -1
+jp_plate_fx_royal/royal_plate_fx_12
+  rotate: false
+  xy: 1009, 876
+  size: 186, 77
+  orig: 186, 77
+  offset: 0, 0
+  index: -1
+jp_plate_fx_royal/royal_plate_fx_13
+  rotate: false
+  xy: 1009, 797
+  size: 186, 77
+  orig: 186, 77
+  offset: 0, 0
+  index: -1
+jp_plate_fx_royal/royal_plate_fx_14
+  rotate: false
+  xy: 1009, 718
+  size: 186, 77
+  orig: 186, 77
+  offset: 0, 0
+  index: -1
+jp_plate_fx_royal/royal_plate_fx_15
+  rotate: false
+  xy: 651, 675
+  size: 186, 77
+  orig: 186, 77
+  offset: 0, 0
+  index: -1
+jp_plate_fx_royal/royal_plate_fx_16
+  rotate: false
+  xy: 651, 596
+  size: 186, 77
+  orig: 186, 77
+  offset: 0, 0
+  index: -1
+jp_plate_fx_royal/royal_plate_fx_17
+  rotate: false
+  xy: 621, 517
+  size: 186, 77
+  orig: 186, 77
+  offset: 0, 0
+  index: -1
+jp_plate_fx_royal/royal_plate_fx_18
+  rotate: false
+  xy: 621, 438
+  size: 186, 77
+  orig: 186, 77
+  offset: 0, 0
+  index: -1
+jp_plate_fx_royal/royal_plate_fx_19
+  rotate: false
+  xy: 621, 359
+  size: 186, 77
+  orig: 186, 77
+  offset: 0, 0
+  index: -1
+jp_plate_fx_royal/royal_plate_fx_20
+  rotate: false
+  xy: 621, 280
+  size: 186, 77
+  orig: 186, 77
+  offset: 0, 0
+  index: -1
+jp_plate_fx_royal/royal_plate_fx_21
+  rotate: false
+  xy: 621, 201
+  size: 186, 77
+  orig: 186, 77
+  offset: 0, 0
+  index: -1
+jp_plate_fx_royal/royal_plate_fx_22
+  rotate: true
+  xy: 651, 13
+  size: 186, 77
+  orig: 186, 77
+  offset: 0, 0
+  index: -1
+jp_plate_fx_royal/royal_plate_fx_23
+  rotate: true
+  xy: 730, 13
+  size: 186, 77
+  orig: 186, 77
+  offset: 0, 0
+  index: -1
+jp_plate_fx_royal/royal_plate_fx_24
+  rotate: true
+  xy: 862, 274
+  size: 162, 40
+  orig: 186, 77
+  offset: 13, 19
+  index: -1
+light_back_yellow
+  rotate: false
+  xy: 1008, 28
+  size: 102, 100
+  orig: 104, 104
+  offset: 1, 2
+  index: -1
+logo_land2
+  rotate: false
+  xy: 696, 1016
+  size: 346, 61
+  orig: 346, 61
+  offset: 0, 0
+  index: -1
+logo_main_game
+  rotate: false
+  xy: 663, 812
+  size: 242, 138
+  orig: 242, 138
+  offset: 0, 0
+  index: -1
+major
+  rotate: false
+  xy: 1112, 26
+  size: 123, 32
+  orig: 123, 32
+  offset: 0, 0
+  index: -1
+major_panel_land
+  rotate: true
+  xy: 331, 163
+  size: 197, 51
+  orig: 197, 51
+  offset: 0, 0
+  index: -1
+major_panel_port
+  rotate: false
+  xy: 663, 754
+  size: 205, 56
+  orig: 205, 56
+  offset: 0, 0
+  index: -1
+major_plate
+  rotate: false
+  xy: 663, 754
+  size: 205, 56
+  orig: 205, 56
+  offset: 0, 0
+  index: -1
+mini
+  rotate: true
+  xy: 568, 566
+  size: 61, 23
+  orig: 61, 23
+  offset: 0, 0
+  index: -1
+mini_frame_yellow_glow
+  rotate: false
+  xy: 1197, 739
+  size: 120, 44
+  orig: 126, 51
+  offset: 3, 4
+  index: -1
+mini_panel_land
+  rotate: true
+  xy: 809, 246
+  size: 173, 51
+  orig: 173, 51
+  offset: 0, 0
+  index: -1
+mini_panel_port
+  rotate: true
+  xy: 809, 77
+  size: 167, 51
+  orig: 167, 51
+  offset: 0, 0
+  index: -1
+minor
+  rotate: false
+  xy: 373, 2
+  size: 106, 28
+  orig: 106, 28
+  offset: 0, 0
+  index: -1
+minor_panel_land
+  rotate: true
+  xy: 809, 421
+  size: 173, 51
+  orig: 173, 51
+  offset: 0, 0
+  index: -1
+minor_panel_port
+  rotate: false
+  xy: 1000, 955
+  size: 185, 51
+  orig: 185, 51
+  offset: 0, 0
+  index: -1
+placeholder_jp_counter
+  rotate: false
+  xy: 221, 351
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+placeholder_grand_coin_counter
+  rotate: false
+  xy: 221, 351
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+placeholder_grand_counter
+  rotate: false
+  xy: 221, 351
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+placeholder_royal_coin_counter
+  rotate: false
+  xy: 221, 351
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+placeholder_royal_counter
+  rotate: false
+  xy: 221, 351
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+reels/reel_frame
+  rotate: false
+  xy: 2, 751
+  size: 536, 300
+  orig: 536, 300
+  offset: 0, 0
+  index: -1
+reels/reel_frame_1
+  rotate: false
+  xy: 2, 1201
+  size: 692, 146
+  orig: 692, 146
+  offset: 0, 0
+  index: -1
+reels/reel_frame_2
+  rotate: false
+  xy: 2, 1053
+  size: 692, 146
+  orig: 692, 146
+  offset: 0, 0
+  index: -1
+reels/reel_inside
+  rotate: false
+  xy: 696, 1149
+  size: 350, 198
+  orig: 350, 200
+  offset: 0, 1
+  index: -1
+reels/reel_inside_1
+  rotate: false
+  xy: 696, 1079
+  size: 351, 68
+  orig: 352, 69
+  offset: 1, 0
+  index: -1
+reels/reel_sun_1
+  rotate: false
+  xy: 663, 952
+  size: 335, 62
+  orig: 335, 62
+  offset: 0, 0
+  index: -1
+reels/reel_suns
+  rotate: false
+  xy: 2, 561
+  size: 337, 188
+  orig: 337, 188
+  offset: 0, 0
+  index: -1
+royal
+  rotate: true
+  xy: 839, 602
+  size: 150, 40
+  orig: 150, 40
+  offset: 0, 0
+  index: -1
+royal_frame_yellow_glow
+  rotate: false
+  xy: 481, 2
+  size: 85, 28
+  orig: 85, 28
+  offset: 0, 0
+  index: -1
+royal_panel_land
+  rotate: true
+  xy: 2, 25
+  size: 316, 98
+  orig: 319, 98
+  offset: 0, 0
+  index: -1
+royal_panel_port
+  rotate: false
+  xy: 1048, 1166
+  size: 245, 58
+  orig: 245, 58
+  offset: 0, 0
+  index: -1
+sweep_yellow
+  rotate: true
+  xy: 620, 666
+  size: 97, 27
+  orig: 97, 27
+  offset: 0, 0
+  index: -1
