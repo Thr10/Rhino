@@ -1,4 +1,4 @@
-import { _decorator, Color, Component, EventKeyboard, input, Input, KeyCode, Label, Node, sp, UITransform, Vec3 } from 'cc';
+import { _decorator, Color, Component, EventKeyboard, Graphics, input, Input, KeyCode, Label, Node, sp, UITransform, Vec3 } from 'cc';
 import { SlotSymbol } from './SlotTypes';
 
 const { ccclass, property, requireComponent } = _decorator;
@@ -24,6 +24,7 @@ type SpinState = 'idle' | 'accelerating' | 'spinning' | 'stopping';
 
 interface SpinVisualItem {
   node: Node;
+  visualNode: Node;
   skeleton: sp.Skeleton;
   symbol: SlotSymbol;
 }
@@ -112,6 +113,12 @@ export class SymbolCell extends Component {
   @property
   public fastSpinOpacity = 170;
 
+  @property
+  public showDebugBorder = true;
+
+  @property
+  public debugBorderLineWidth = 2;
+
   private currentSymbol: SlotSymbol | null = null;
   private currentAnimation = '';
   private cellWidth = 100;
@@ -168,7 +175,9 @@ export class SymbolCell extends Component {
 
     if (this.skeleton) {
       this.skeleton.node.setPosition(new Vec3(this.visualOffsetX, this.visualOffsetY, 0));
-      this.skeleton.node.setScale(scale, scale, 1);
+      if (this.skeleton.node !== this.node) {
+        this.skeleton.node.setScale(scale, scale, 1);
+      }
     }
 
     if (this.valueLabel) {
@@ -178,6 +187,8 @@ export class SymbolCell extends Component {
     for (const item of this.spinItems) {
       this.resizeSpinItem(item);
     }
+
+    this.drawDebugBorder();
   }
 
   public setSymbol(symbol: SlotSymbol, animation: SymbolAnimationName = 'idle', loop = true, force = false) {
@@ -388,7 +399,7 @@ export class SymbolCell extends Component {
     const opacity = Math.round(255 - (255 - this.fastSpinOpacity) * speedRate);
 
     for (const item of this.spinItems) {
-      item.node.setScale(scale, scaleY, 1);
+      item.visualNode.setScale(scale, scaleY, 1);
       item.skeleton.color = new Color(255, 255, 255, opacity);
     }
   }
@@ -405,11 +416,16 @@ export class SymbolCell extends Component {
       node.parent = this.node;
       node.setPosition(0, -spacing * index, 0);
 
-      const skeleton = node.addComponent(sp.Skeleton);
+      const visualNode = new Node('Visual');
+      visualNode.layer = this.node.layer;
+      visualNode.parent = node;
+
+      const skeleton = visualNode.addComponent(sp.Skeleton);
       skeleton.premultipliedAlpha = false;
 
       const item: SpinVisualItem = {
         node,
+        visualNode,
         skeleton,
         symbol: index === 0 ? startSymbol : this.pickRandomSymbol(),
       };
@@ -423,7 +439,8 @@ export class SymbolCell extends Component {
   private resizeSpinItem(item: SpinVisualItem) {
     const transform = item.node.getComponent(UITransform) ?? item.node.addComponent(UITransform);
     transform.setContentSize(this.cellWidth, this.cellHeight);
-    item.node.setScale(this.getVisualScale(), this.getVisualScale(), 1);
+    item.visualNode.setPosition(new Vec3(this.visualOffsetX, this.visualOffsetY, 0));
+    item.visualNode.setScale(this.getVisualScale(), this.getVisualScale(), 1);
   }
 
   private setSpinItemSymbol(item: SpinVisualItem, symbol: SlotSymbol) {
@@ -505,6 +522,24 @@ export class SymbolCell extends Component {
 
   private getVisualScale() {
     return Math.min(this.cellWidth, this.cellHeight) / this.baseSymbolSize * this.visualScale;
+  }
+
+  private drawDebugBorder() {
+    let graphics = this.node.getComponent(Graphics);
+
+    if (!this.showDebugBorder) {
+      if (graphics) {
+        graphics.clear();
+      }
+      return;
+    }
+
+    graphics = graphics ?? this.node.addComponent(Graphics);
+    graphics.clear();
+    graphics.lineWidth = this.debugBorderLineWidth;
+    graphics.strokeColor = new Color(255, 220, 80, 220);
+    graphics.rect(-this.cellWidth / 2, -this.cellHeight / 2, this.cellWidth, this.cellHeight);
+    graphics.stroke();
   }
 
   private pickRandomSymbol(): SlotSymbol {
